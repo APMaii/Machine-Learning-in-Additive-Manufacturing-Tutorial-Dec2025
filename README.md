@@ -32,6 +32,7 @@ Participants will learn how to:
 
 ## 📂 Repository Structure
 
+```bash
 Machine-Learning-in-Additive-Manufacturing-Tutorial-Dec2025/
 │
 ├── datasets/ # Sample datasets
@@ -48,7 +49,7 @@ Machine-Learning-in-Additive-Manufacturing-Tutorial-Dec2025/
 ├── slides/ # Presentation slide deck
 │
 └── README.md # Documentation
-
+```
 
 ---
 
