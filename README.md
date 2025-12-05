@@ -1,7 +1,7 @@
 # Machine-Learning-in-Additive-Manufacturing-Tutorial-Dec2025
 ### **Author:** Ali Pilehvar Meibody  
 ### **Affiliation:** AMpro Group, Politecnico di Torino  
-### **Supervisor:** Professor Abdollah (Hamed) Saboori
+### **Supervisor:** Professor Hamed Saboori
 
 ---
 
