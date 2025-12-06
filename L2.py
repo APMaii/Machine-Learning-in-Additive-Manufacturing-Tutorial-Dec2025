@@ -1245,8 +1245,20 @@ Data Types haro tonestim yad begirim
 
 
 
+1-----> in CODE HARO az github avrdarim
+done done run bznim moshkeli bod ham bgim ham matrah konim
+
+1 saaat moshkel bzarim 
 
 
+2---> 
+Conditions (if , else , ...)
+https://www.w3schools.com/python/python_conditions.asp
+
+
+Loops
+https://www.w3schools.com/python/python_while_loops.asp
+https://www.w3schools.com/python/python_for_loops.asp
 
 
 
