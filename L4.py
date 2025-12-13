@@ -1798,6 +1798,45 @@ gpt, documentation ,....
 
 
 
+10 Quiz-------------------
+
+
+1- Yek listi az forces ha darim , yek listi az distance ha besazid 
+bad yek threshold baraye maximum allowable strss .
+berif iteration konidi too lista , stress ro hesab konid ag kamtar bood printeshon konid
+
+
+2- hamon kare bala , ama age kamtar bood, berizideshon too ye list
+
+3- hamon kare bala, ama age kamtar bood , fght beshmorid tedadesho
+
+
+
+4- hala kare bala ro dar yek tabe besazid k y listi az force bgire , listi az distance va yek allowable stres
+yani tabe 3 ta vorodi dashte bashe
+khorojie in tabe hichie fght print kone har stressi k kamtar az allowable has
+
+
+5- in tabe 3 ta vorodi dare ama dar khoroji tedade stress hae k kamtar hatsan ro bede
+
+
+6- yek tabe benvisid k behsh densiity bedid va age balaye 98 bashe True pas bde, ag kamtar False pas bde
+
+
+7- yek tabe besazid k temperature begire va ag balaye 2000 bashe False pass bde , ag kamtar bood True pass bde
+
+
+8- yek tabe benvisidi k VED ro hesab kone yani vorodi begire va khoroji ved ro bde
+
+9 - yek tabe benvisid yek listi az mass ha va volume haro bdid va behtoon dar khoroji
+yek adad bede k tedade sample haee k density balaye 0.9 hast
+
+10 - yek tabe benvisid yek listi az mass, yek listi az volume ha bdid va bre bgrde
+va darsade takhalkhole hamaro hesab kone ( 1 - density * 100 ) badesh onae k 
+kamtar az 5 % takhalkhol drn ro dar yek list brize va list ro bargardoone
+
+
+
 '''
 
 
