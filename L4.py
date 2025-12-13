@@ -1839,8 +1839,3 @@ kamtar az 5 % takhalkhol drn ro dar yek list brize va list ro bargardoone
 
 '''
 
-
-
-
-
-
