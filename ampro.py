@@ -1,4 +1,8 @@
+'''
 
+Some fucntions for importing in another script .py
+
+'''
 
 def newton(mass , acceleration):
     
