@@ -1,12 +1,8 @@
 """
-Dec  6 2025
-
-@author: Ali Pilehvar Meibody
-
-
-
 L2 - 6 DEC 2025
 
+
+@author: Ali Pilehvar Meibody
 
 
 
